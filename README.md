@@ -4,6 +4,8 @@ Wan2.2-Fast is an optimized, high-performance image-to-video (I2V) generation su
 
 The application integrates ahead-of-time (AOTI) compilation modules (`cbensimon/WanTransformer3DModel-sm120-cu130-raa`) on ZeroGPU infrastructure and serves an interactive web experience through a custom dark-mode single-page frontend (SPA) managed by FastAPI and `gradio.Server`.
 
+https://github.com/user-attachments/assets/9a867eff-b32f-4a2d-97f4-94e4213c5477
+
 ### **Key Features**
 
 * **Wan 2.2 14B Dual-Transformer Architecture:** Leverages dual 3D transformer modules (`transformer` and `transformer_2`) in BF16 precision for temporal video rendering.
