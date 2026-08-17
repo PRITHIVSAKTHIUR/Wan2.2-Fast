@@ -1,4 +1,4 @@
-# **Wan2.2-Fast**
+# **[Wan2.2-Fast](https://huggingface.co/spaces/prithivMLmods/Wan2.2-Fast)**
 
 Wan2.2-Fast is an optimized, high-performance image-to-video (I2V) generation suite powered by the `Wan-AI/Wan2.2-I2V-A14B-Diffusers` model. Utilizing dual transformer backbones (`cbensimon/Wan2.2-I2V-A14B-bf16-Diffusers`), fused step-distilled Lightning LoRA adapters (`Kijai/WanVideo_comfy`), and torchao-driven FP8/Int8 quantization, the pipeline enables rapid 4-step video synthesis directly on CUDA hardware.
 
